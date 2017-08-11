@@ -1,0 +1,10 @@
+C:\Users\ESANDOVAL\Desktop\Calcular_notas\Appcalcular_nota\Appcalcular_nota\bin\Debug\Appcalcular_nota.exe.config
+C:\Users\ESANDOVAL\Desktop\Calcular_notas\Appcalcular_nota\Appcalcular_nota\obj\Debug\Appcalcular_nota.Form1.resources
+C:\Users\ESANDOVAL\Desktop\Calcular_notas\Appcalcular_nota\Appcalcular_nota\obj\Debug\Appcalcular_nota.Resources.resources
+C:\Users\ESANDOVAL\Desktop\Calcular_notas\Appcalcular_nota\Appcalcular_nota\obj\Debug\Appcalcular_nota.vbproj.GenerateResource.Cache
+C:\Users\ESANDOVAL\Desktop\Calcular_notas\Appcalcular_nota\Appcalcular_nota\bin\Debug\Appcalcular_nota.exe
+C:\Users\ESANDOVAL\Desktop\Calcular_notas\Appcalcular_nota\Appcalcular_nota\bin\Debug\Appcalcular_nota.pdb
+C:\Users\ESANDOVAL\Desktop\Calcular_notas\Appcalcular_nota\Appcalcular_nota\bin\Debug\Appcalcular_nota.xml
+C:\Users\ESANDOVAL\Desktop\Calcular_notas\Appcalcular_nota\Appcalcular_nota\obj\Debug\Appcalcular_nota.exe
+C:\Users\ESANDOVAL\Desktop\Calcular_notas\Appcalcular_nota\Appcalcular_nota\obj\Debug\Appcalcular_nota.xml
+C:\Users\ESANDOVAL\Desktop\Calcular_notas\Appcalcular_nota\Appcalcular_nota\obj\Debug\Appcalcular_nota.pdb
